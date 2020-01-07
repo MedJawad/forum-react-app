@@ -8,10 +8,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
         {/* <Navbar />
         <Main />
         test2 
          */}
+=======
+         <Navbar />
+       {/* <Main /> */}
+>>>>>>> bef94311275eacbb5d139a63cd0ebfcdec2ee2e4
         <Footer />
     </div>
   );
