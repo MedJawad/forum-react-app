@@ -8,8 +8,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        {/* <Navbar />
-        <Main /> */}
+         <Navbar />
+       {/* <Main /> */}
         <Footer />
     </div>
   );
