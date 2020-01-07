@@ -8,6 +8,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+        {/* <Navbar />
+        <Main />
+        test2 
+         */}
          <Navbar />
        {/* <Main /> */}
         <Footer />
