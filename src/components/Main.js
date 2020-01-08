@@ -1,4 +1,5 @@
 import React from 'react';
+import Post from './Post';
 
 
 class Main extends React.Component {
@@ -8,7 +9,7 @@ class Main extends React.Component {
 
         return (
             <div className="container">
-
+                <Post/>
             </div>
         )
     }
