@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
-import Navbar from './components/Navbar.js';
-import Main from './components/Main.js';
-import Footer from './components/Footer.js';
+import Navbar from './components/Navbar';
+import Main from './components/Main';
+import Footer from './components/Footer';
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 function App() {
